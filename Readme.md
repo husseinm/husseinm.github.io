@@ -1,6 +1,7 @@
 Mahdi Hussein's Website
 =======================
 This is Mahdi Hussein's website and blog on software, engineering, ramblings, etc.
+Domain is: [mahdihusse.in]
 
 Tech
 ----
@@ -24,3 +25,4 @@ All other directories and files are MIT Licensed. Feel free to use the HTML and 
 [Jekyll]:http://jekyllrb.com/
 [Hyde]:http://andhyde.com/
 [MathJax]:http://www.mathjax.org/
+[mahdihusse.in]:http://mahdihusse.in
