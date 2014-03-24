@@ -1,0 +1,31 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>{{ site.title }}</h1>
+      <p class="lead">Software Developer</p>
+      Twitter:
+      <a class="sidebar-twitter" href="https://twitter.com/{{ site.social.twitter }}">
+        @{{ site.social.twitter }}
+      </a> 
+      <br />
+      Github: 
+      <a class="sidebar-gh" href="https://github.com/{{ site.social.github }}">
+        {{ site.social.github }}
+      </a> 
+      <br />
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
+        <a href="/">Home</a>
+      </li>
+      <li class="sidebar-nav-item{% if page.title == "About" %} active{% endif %}">
+        <a href="/about">About</a>
+      </li>
+    </ul>
+
+    <span class="sidebar-copyright">
+      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+    </span>
+  </div>
+</div>
