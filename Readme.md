@@ -1,7 +1,8 @@
 Mahdi Hussein's Website
 =======================
 This is Mahdi Hussein's website and blog on software, engineering, drawings, photography, and music
-Domain is: [mahdihusse.in]
+
+Domain: [mahdihusse.in]
 
 Tech
 ----
