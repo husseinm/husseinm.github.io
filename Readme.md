@@ -1,6 +1,6 @@
 Mahdi Hussein's Website
 =======================
-This is Mahdi Hussein's website and blog on software, engineering, ramblings, etc.
+This is Mahdi Hussein's website and blog on software, engineering, drawings, photography, and music
 Domain is: [mahdihusse.in]
 
 Tech
@@ -19,8 +19,6 @@ The following directories and their contents are Copyright Mahdi Hussein. You ma
 * public/images/
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please.
-
-**Free Software, Hell Yeah! (Well Mostly)**
 
 [Jekyll]:http://jekyllrb.com/
 [Hyde]:http://andhyde.com/
