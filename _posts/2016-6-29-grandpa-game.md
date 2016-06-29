@@ -3,7 +3,7 @@ layout: post
 title: S.P.A.M. Grandpa Game 
 ---
 
-**Note:** This is a story of 14 year old me and a group of kids from my School District's cross High School Robotics team, S.P.A.M., during one of my most memorable times there. Please remember all the students were approximately 14 years old, this was a selected subgroup of kids on the team, and is no way indicative of the behaviour of the individuals today, nor of anyone currently on that team - also please know I did actually write some kind of useful robot code during my 4 year tenure on the team, and didn't just screw around...
+**Note:** This is a story of 14 year-old me and a group of kids from my School District's cross High School Robotics team, S.P.A.M., during one of my most memorable times there. Please remember all the students were approximately 14 years old, this was a selected subgroup of kids on the team, and is no way indicative of the behavior of the individuals today, nor of anyone currently on that team - also please know I did actually write some kind of useful robot code during my 4 year tenure on the team, and didn't just screw around...
 
 Source Code: [GitHub](https://github.com/husseinm/S.P.A.M.-Grandpa-Game)
 
@@ -14,10 +14,10 @@ of this project was to teach my fellow members of FRC team 180 how to program. H
 story goes:
 
 It was the beginning of the season, and I asked all of our new programming sub-team members what they wanted to program for their **very first** project. Of course being incredibly intelligent high schoolers on a robotics
-team from academically high acheiving schools, they all had the very same idea and looked at each
+team from academically high achieving schools, they all had the very same idea and looked at each
 other as though it was
 some sort of alien-like telepathy. Then after the very brief silence, I was blasted by the voices
-of six shrieking 14 year old fan-girls showing themselves through the medium of six awkward and nerdy 14 year-old males via the words "VIDEO
+of six shrieking 14 year-old fan-girls showing themselves through the medium of six awkward and nerdy 14 year-old males via the words "VIDEO
 GAME!"
 
 After the Tinnitus stopped ringing my ears like a bell, I thought to myself that it could be a good idea, and we could show it to the public FRC community for marketing purposes so I replied for their own sake "Fine - as long as it is not a 3D game or an RPG" - almost instantly I received enough collective sighing, moaning and groaning to feel as though I stood in the midst of an orgy. Then there was *that kid* who stopped everyone's animal-like moaning for a moment and said in his very scratchy voice:
@@ -26,15 +26,15 @@ After the Tinnitus stopped ringing my ears like a bell, I thought to myself that
 cool game idea I have.
 >
 >Imagine a grandfather who used to live a great life, he had a beautiful
->grandaughter, you know that perfect middle-class life sh***.
+>granddaughter, you know that perfect middle-class life sh***.
 >
->The next day grandpa is drving home from the grocery store and pulling in, grandma calls and says where are you? Worried grandma will find out about the hooker badass gramps was just with, gramps floors it and pulls some serious *Need for Speed*&trade; sh*** to get home soon.
+>The next day grandpa is driving home from the grocery store and pulling in, grandma calls and says where are you? Worried grandma will find out about the hooker badass gramps was just with, gramps floors it and pulls some serious *Need for Speed*&trade; sh*** to get home soon.
 >
 >The next thing you know, **bam**, the little girl is dead on the windshield, blood is everywhere and the grandpa is hysterical, he goes into shock, and over the next couple of years he becomes an alcoholic, gets divorced, then develops a heroin addiction.
 >
->Now one dark stormy night he OD's and the game part cues in - you are in the grandpa's nightmare-esque coma. You play the grandaughter who died at her grandfather's hands. Grandpa sees you at the side of his bed and starts to chase you, violently, with his most recently used heroin needle in hand.
+>Now one dark stormy night he OD's and the game part cues in - you are in the grandpa's nightmare-esque coma. You play the granddaughter who died at her grandfather's hands. Grandpa sees you at the side of his bed and starts to chase you, violently, with his most recently used heroin needle in hand.
 >
->So now the game is you are running away from your now violent and murderous grandpa playing in the confines of the coma, trying to avoid grandpa's huge oversized and used heroin needles from stabing you.
+>So now the game is you are running away from your now violent and murderous grandpa playing in the confines of the coma, trying to avoid grandpa's huge oversized and used heroin needles from stabbing you.
 
 Of course that kid<sup>[1](#ps-1)</sup> then proceeded to use his amazing illustration skills to wonderfully draw the entire scene
 while explaining it in black and red Expo&trade; on the whiteboard.
@@ -61,7 +61,7 @@ So we went off and started building this project, we split off into subteams - n
 programming, and music<sup>[3] (#ps-3)</sup>
 The design team eventually made all the art work and over many Saturdays, pizza, soda and
 inappropriate jokes we had all the artwork and music completed. During this time frame, I had taught the new programmers the
-basics of programming and how to write javascript, particularly in a Unity setting.
+basics of programming and how to write JavaScript, particularly in a Unity setting.
 
 We had all the artwork done and the new programmers knew enough to code the project so I let them
 loose with one week to write the code. Then came the day of our Robotics competition and
@@ -73,17 +73,17 @@ code together as best as I could<sup>[5](#ps-5)
 At the end of the ride I finished the project just in time, we arrived at the regional, I setup the kiosk and we had our game up and running.
 
 Now I could end the story here, but I would be remiss if I didn't explain the Konami code
-behaviour...
+behavior...
 
-When you enter the konami code at the title screen, a scantly clad female character
+When you enter the Konami code at the title screen, a scantly clad female character
 begins to play, and if you examine the source code file's name is "SecondClass" - now of course this might send off a
-masoginistic messages to the brains of my finely educated and beautiful/hansome readers, but there is a story
+misogynistic messages to the brains of my finely educated and beautiful/hansome readers, but there is a story
 behind this as well.
 
 See while designing the game, the artists created the original characters
 without clothing and had random people on the team review the proportions<sup>[6](#ps-6)</sup>, and we would then would place the clothing on top.
 
-Of course the artist being a 14 year old decided to make a version with a bikini before
+Of course the artist being a 14 year-old decided to make a version with a bikini before
 fully clothing her as a joke for all of us in the room. They were about to add more clothes, when I stopped him and said no - we *will* find a way to integrate that
 into the game as an easter egg.
 
