@@ -21,6 +21,8 @@ The following directories and their contents are Copyright Mahdi Hussein. You ma
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please.
 
+---
+
 MIT License
 
 Copyright (c) Mahdi Hussein
